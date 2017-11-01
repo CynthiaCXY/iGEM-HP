@@ -1,0 +1,46 @@
+Subject,x,y,z
+biotech,6,5,3
+Bioinformatics,7,5,2
+biomed(including neurobio),6,5,1
+zoology,5,6,1
+botany,5,6,1
+"Miscellenous sciences(e.g. agriculture, environmental sci, ecology, general bio)",5,5,1
+pharmacy/phamacology/pharmaceutical sciences ,7,3,3
+chemistry,6,5,6
+biochem,6,6,2
+material science,6,5,6
+Bioeng,7,2,3
+chem eng,7,1,6
+civil eng,7,2,3
+mech eng,7,2,7
+electrical&electronic eng(electronics),7,1,7
+biomed eng,7,2,3
+industrial eng,7,1,7
+miscellenous eng (including technology),7,2,4
+"C.S. (including informatics, software engineering, information sciences)",7,1,7
+psychology,3,4,2
+maths,7,6,7
+applied maths,7,3,7
+computational maths,7,6,7
+theoretical physics,6,7,6
+applied physics,7,3,6
+physics,7,5,6
+economics,6,2,6
+management,3,1,7
+design,3,1,7
+art,2,1,7
+art history,4,5,7
+history,4,5,7
+politics,2,1,7
+"business(management, entrepreneurship, BA, communication, marketing)",3,1,7
+science communication,3,2,7
+architecture,4,1,7
+education,4,1,7
+sociology,2,5,7
+music,5,4,7
+linguistics,6,1,7
+law,7,1,7
+literature,3,6,7
+cognitive science,6,5,3
+philosophy,1,7,4
+media studies,4,1,7
